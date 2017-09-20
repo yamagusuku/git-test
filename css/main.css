@@ -1,5 +1,5 @@
 /*
-Error: File to import not found or unreadable: enter.scss.
+Error: File to import not found or unreadable: top.scss.
        Load paths:
          C:/Program Files/Adobe/Adobe Dreamweaver CC 2017/Configuration/SassFrameworks/bourbon
          C:/Program Files/Adobe/Adobe Dreamweaver CC 2017/Configuration/SassFrameworks/neat
@@ -9,12 +9,7 @@ Error: File to import not found or unreadable: enter.scss.
 1: /* main.scss *\/
 2: @charset "UTF-8";
 3: 
-4: @import "enter.scss";
-5: @import "vars.scss";
-6: @import "default.scss";
-7: @import "top.scss";
-8: @import "system.scss";
-9: @import "girls.scss";
+4: @import "top.scss";
 
 Backtrace:
 D:\web\test02_git\css\main.scss:4
@@ -54,4 +49,4 @@ C:/Program Files/Adobe/Adobe Dreamweaver CC 2017/ruby/bin/sass:23:in `<main>'
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: File to import not found or unreadable: enter.scss.\A        Load paths:\A          C:/Program Files/Adobe/Adobe Dreamweaver CC 2017/Configuration/SassFrameworks/bourbon\A          C:/Program Files/Adobe/Adobe Dreamweaver CC 2017/Configuration/SassFrameworks/neat\A          C:/Program Files/Adobe/Adobe Dreamweaver CC 2017/Configuration/SassFrameworks/base\A         on line 4 of D:\web\test02_git\css\main.scss\A \A 1: /* main.scss */\A 2: @charset \"UTF-8\";\A 3: \A 4: @import \"enter.scss\";\A 5: @import \"vars.scss\";\A 6: @import \"default.scss\";\A 7: @import \"top.scss\";\A 8: @import \"system.scss\";\A 9: @import \"girls.scss\";"; }
+  content: "Error: File to import not found or unreadable: top.scss.\A        Load paths:\A          C:/Program Files/Adobe/Adobe Dreamweaver CC 2017/Configuration/SassFrameworks/bourbon\A          C:/Program Files/Adobe/Adobe Dreamweaver CC 2017/Configuration/SassFrameworks/neat\A          C:/Program Files/Adobe/Adobe Dreamweaver CC 2017/Configuration/SassFrameworks/base\A         on line 4 of D:\web\test02_git\css\main.scss\A \A 1: /* main.scss */\A 2: @charset \"UTF-8\";\A 3: \A 4: @import \"top.scss\";"; }
